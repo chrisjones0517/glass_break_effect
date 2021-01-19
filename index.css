@@ -1,0 +1,23 @@
+body {
+    /* background-color: #111111; */
+    background-image: url('https://media.giphy.com/media/2UxWBIttMvvIJ55hTe/giphy.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    text-align: center;
+}
+
+.piece {
+    position: fixed;
+    /* background: transparent; */
+    background-image: url('qbkls.png');
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 1px;
+    z-index: -1;
+}
